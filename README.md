@@ -1,40 +1,49 @@
 # 🛍️ Myntra Clone – HTML & CSS Project
 
-This is a **front-end clone of the Myntra website**, built using **pure HTML and CSS**. It replicates the look and feel of the official Myntra homepage and aims to practice layout design, Flexbox, Grid, and responsive styling.
+This is a **frontend clone of the Myntra homepage**, built with **pure HTML and CSS**, replicating the core UI layout of the popular e-commerce platform. It's a practice project created to enhance frontend development skills using real-world design components.
 
-## 🔗 Live Preview
+---
 
-> If you're running this locally:  
-> Open with **Live Server** → `http://127.0.0.1:5500/project_Myntra_Clone/index.html`
+## 🔗 Live Demo
+
+🎯 [Click here to view the project live](https://veshusood.github.io/myntra-clone/)
+
+---
 
 ## 📁 Project Structure
 
 
-## 🎯 Features
+---
 
-- 🖼️ Banner slider and promotional sections
-- 🧥 Categories layout (Men, Women, Kids, etc.)
-- 📱 Responsive design using media queries
-- 🧩 Recreated real-world e-commerce UI using only HTML/CSS
+## ✨ Features
 
-## 🛠️ Tech Used
-
-- HTML5
-- CSS3 (Flexbox, Grid)
-- Live Server (VS Code extension)
-
-## 📸 Screenshots
-
-_Add screenshots of your clone here (optional)._
-
-## 🙌 Author
-
-- **Your Name** – [@yourGitHub](https://github.com/yourGitHub)
+- ✅ Clone of the official Myntra homepage layout
+- 🎯 Responsive sections with Flexbox
+- 🎨 Clean and organized HTML + CSS code
+- 📷 Banner, Offers, and Shop by Category sections
+- 🧭 Navigation bar, search bar, profile/wishlist/cart icons
+- 🚫 No external frameworks – built from scratch
 
 ---
 
-## 🚀 How to Run
+## 🛠️ Technologies Used
 
-1. Download or clone the repository:
+- HTML5
+- CSS3
+- Google Fonts
+- Material Symbols (Icons)
+- VS Code + Live Server
+
+---
+
+## 📸 Screenshots
+
+> _You can add screenshots here later if you like._
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/myntra-clone.git
+   git clone https://github.com/veshusood/myntra-clone.git
